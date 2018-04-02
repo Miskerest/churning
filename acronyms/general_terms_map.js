@@ -121,5 +121,10 @@ let general_terms_map = [
     'regex': '\\b(SPs?)\\b',
     'options': 'g',
     'replacement': '$1 (Soft Pull)'
+  },
+  {
+    'regex': '\\b(BRMs?)\\b',
+    'options': 'g',
+    'replacement': '$1 (Business Relationship Manager)'
   }
 ];
