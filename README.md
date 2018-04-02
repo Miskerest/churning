@@ -46,6 +46,7 @@ Below are the currently supported acronyms and their meaning
 * PPDG (PayPal Digital Gifts)
 * FTF (Foreign Transaction Fee)
 * HP (Hard Pull - Credit Check)
+* BRM (Business Relationship Manager)
 
 ## Credit Agencies
 * EQ (Eqifax) 
